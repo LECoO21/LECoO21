@@ -88,15 +88,16 @@ AI 产品经理 / 独立开发者，base 北京。
 ## GitHub Analytics · 数据
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LECoO21&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=555555&icon_color=000000&count_private=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LECoO21&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=555555&langs_count=6" alt="Top languages" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LECoO21&theme=graywhite" alt="GitHub stats" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LECoO21&theme=graywhite" alt="Repos per language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LECoO21&theme=graywhite" alt="Most committed languages" />
 </p>
 
 <details>
   <summary><strong>More GitHub stats</strong></summary>
   <br />
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LECoO21&theme=github" width="100%" alt="GitHub profile details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LECoO21&theme=graywhite" width="100%" alt="GitHub profile details" />
   </p>
 </details>
 
