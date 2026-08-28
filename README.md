@@ -68,22 +68,9 @@ AI 产品经理 / 独立开发者，base 北京。
 
 ## PM Skills · 产品经理技能库
 
-从 [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills)（v2.32.0，Apache-2.0）拆分重组的 **12 个独立 skill**，覆盖产品全流程（原库 68 个技能 + 216 个真实产出样例），每个 skill 可单独取用。
+从 [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills)（v2.32.0，Apache-2.0）拆分重组的 **12 个独立 skill**，现已合并为单一仓库：[LECoO21/pm-skills](https://github.com/LECoO21/pm-skills)。
 
-| Skill | 场景 |
-| --- | --- |
-| [pm-competitive-analysis](https://github.com/LECoO21/pm-skills-competitive-analysis) | 竞品分析 |
-| [pm-okr](https://github.com/LECoO21/pm-skills-okr) | OKR 撰写 + 评分 |
-| [pm-research](https://github.com/LECoO21/pm-skills-research) | 用户研究与市场洞察 |
-| [pm-framing](https://github.com/LECoO21/pm-skills-framing) | 问题定义与框架 |
-| [pm-solution](https://github.com/LECoO21/pm-skills-solution) | 方案探索与技术决策 |
-| [pm-delivery](https://github.com/LECoO21/pm-skills-delivery) | 交付落地（PRD → 上线） |
-| [pm-measure](https://github.com/LECoO21/pm-skills-measure) | 度量与验证 |
-| [pm-iterate](https://github.com/LECoO21/pm-skills-iterate) | 复盘与迭代 |
-| [pm-foundation-sprint](https://github.com/LECoO21/pm-skills-foundation-sprint) | Foundation 工作坊（2 天） |
-| [pm-design-sprint](https://github.com/LECoO21/pm-skills-design-sprint) | Design 工作坊（5 天） |
-| [pm-collaboration](https://github.com/LECoO21/pm-skills-collaboration) | 会议与干系人协作 |
-| [pm-meta](https://github.com/LECoO21/pm-skills-meta) | 技能库维护与工具 |
+覆盖产品全流程：竞品分析 · OKR · 研究 · 定义 · 方案 · 交付 · 度量 · 迭代 · Foundation 工作坊 · Design 工作坊 · 协作 · 元工具（原库 68 个技能 + 216 个真实样例）。
 
 `pm-research → pm-framing → pm-solution → pm-delivery → pm-measure → pm-iterate`
 
