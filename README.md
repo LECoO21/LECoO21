@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/LECoO21">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=720&lines=AI+Product+Manager+%C2%B7+Indie+Developer;Turning+AI+prototypes+into+deliverable+products;Building+PM+skills+%26+AI+product+prototypes" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=760&lines=AI+Product+Manager+%C2%B7+Indie+Developer;Turning+AI+prototypes+into+deliverable+products;Building+AI+workflows%2C+tools+%26+reusable+skills" alt="Typing introduction" />
   </a>
 </p>
 
@@ -30,22 +30,23 @@ AI 产品经理 / 独立开发者，base 北京。
 
 ## What I'm Working On · 正在做的事
 
-🤖 研究 AI Agent、Context Engineering 与产品化落地
-🧩 构建 PM 技能库（12 个可独立取用的 skill）与 AI 产品原型
-🛠️ 开发面向 AI Agent 的公开互联网阅读层（OpenRead）与知识库自动化工具
-⚙️ 打磨可控制、可观察、可恢复的 AI 产品生产流水线
-✍️ 持续输出 AI 产品分析、项目复盘与工程实践
-🔭 关注 AI PM 与 AI 应用创业相关机会
+- ⚙️ 打磨 [AI 产品工厂](https://github.com/LECoO21/ai-product-factory)：一条可控制、可观察、可恢复的 AI 数字产品生产流水线。
+- 🧠 构建 [idea-to-prd](https://github.com/LECoO21/idea-to-prd-skill)：把 Agent 产品想法整理成可评审、可交接的 PRD。
+- 🌐 维护 [OpenRead](https://github.com/LECoO21/openread)：面向 AI Agent 的公开互联网读取层。
+- 🧩 维护 12 个可独立安装的 PM Skills，覆盖研究、定义、方案、交付、度量与迭代。
+- ✍️ 持续制作 AI 产品写作、知识图解和知识库自动化工具，并记录真实项目复盘。
+- 🔭 关注 AI PM、Agent 产品化与 AI 应用创业机会。
 
 ## Tech Stack · 技术栈
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Dify-000000?style=flat&logo=dify&logoColor=white" alt="Dify" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" />
@@ -58,11 +59,12 @@ AI 产品经理 / 独立开发者，base 北京。
 | 项目 | 简介 | Stars |
 | --- | --- | --- |
 | [xiaod-media-to-feishu-starter](https://github.com/LECoO21/xiaod-media-to-feishu-starter) | 面向小白的音视频与链接转飞书知识库文档 Skill | <img src="https://img.shields.io/github/stars/LECoO21/xiaod-media-to-feishu-starter?style=flat&labelColor=000000&color=555555" alt="stars" /> |
-| [LECo-blog](https://github.com/LECoO21/LECo-blog) | 个人博客（写作与分享） | <img src="https://img.shields.io/github/stars/LECoO21/LECo-blog?style=flat&labelColor=000000&color=555555" alt="stars" /> |
-| [my-first-github](https://github.com/LECoO21/my-first-github) | 我的第一个 GitHub 仓库 | <img src="https://img.shields.io/github/stars/LECoO21/my-first-github?style=flat&labelColor=000000&color=555555" alt="stars" /> |
-| [ai-product-manager-writing-skill](https://github.com/LECoO21/ai-product-manager-writing-skill) | AI 产品经理写作技能 | <img src="https://img.shields.io/github/stars/LECoO21/ai-product-manager-writing-skill?style=flat&labelColor=000000&color=555555" alt="stars" /> |
-| [create-xhs-knowledge-carousel](https://github.com/LECoO21/create-xhs-knowledge-carousel) | 生成小红书知识卡片 / 轮播图 | <img src="https://img.shields.io/github/stars/LECoO21/create-xhs-knowledge-carousel?style=flat&labelColor=000000&color=555555" alt="stars" /> |
-| [openread](https://github.com/LECoO21/openread) | 面向 AI Agent 的公开互联网阅读层（8 平台，零登录） | <img src="https://img.shields.io/github/stars/LECoO21/openread?style=flat&labelColor=000000&color=555555" alt="stars" /> |
+| [idea-to-prd-skill](https://github.com/LECoO21/idea-to-prd-skill) | 把 Agent 产品想法整理成可评审、可交接 PRD 的 Codex Skill | <img src="https://img.shields.io/github/stars/LECoO21/idea-to-prd-skill?style=flat&labelColor=000000&color=555555" alt="stars" /> |
+| [ai-product-factory](https://github.com/LECoO21/ai-product-factory) | 可控制、可观察、可恢复的 AI 数字产品生产流水线 | <img src="https://img.shields.io/github/stars/LECoO21/ai-product-factory?style=flat&labelColor=000000&color=555555" alt="stars" /> |
+| [openread](https://github.com/LECoO21/openread) | 面向 AI Agent 的公开互联网读取层：8 个平台，零登录 | <img src="https://img.shields.io/github/stars/LECoO21/openread?style=flat&labelColor=000000&color=555555" alt="stars" /> |
+| [create-xhs-knowledge-carousel](https://github.com/LECoO21/create-xhs-knowledge-carousel) | 从选题、核验到排版质检的小红书知识图解 Skill | <img src="https://img.shields.io/github/stars/LECoO21/create-xhs-knowledge-carousel?style=flat&labelColor=000000&color=555555" alt="stars" /> |
+| [ai-product-manager-writing-skill](https://github.com/LECoO21/ai-product-manager-writing-skill) | 面向 AI 产品经理的中文专业写作 Skill | <img src="https://img.shields.io/github/stars/LECoO21/ai-product-manager-writing-skill?style=flat&labelColor=000000&color=555555" alt="stars" /> |
+| [LECo-blog](https://github.com/LECoO21/LECo-blog) | 个人博客：AI 产品、项目复盘与工程实践 | <img src="https://img.shields.io/github/stars/LECoO21/LECo-blog?style=flat&labelColor=000000&color=555555" alt="stars" /> |
 
 ## PM Skills · 产品经理技能库
 
